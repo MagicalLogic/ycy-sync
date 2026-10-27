@@ -3,9 +3,9 @@
   "versionName": "2.4.2.1028",
   "force": false,
   "title": "发现新版本 2.4.2.1028",
-  "changelog": "1. 修复下载列表进入已下载章节卡读取\n2. 新增应用内更新提示\n3. 设置新增“更新设置”\n4. 更新公告排版优化",
+  "changelog": "1. 修复从下载列表进入已下载章节时卡读取\n2. 修复云同步副本（#dup）章节为空\n3. 新增应用内更新提示（立即更新/稍后/忽略）\n4. 设置新增“更新设置”\n5. 版本号更新为 2.4.2.1028",
   "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028/ycy-sync-v1028.apk",
-  "lanzouUrl": "https://wwavt.lanzn.com/ilgcR4dmnjgd",
-  "lanzouPassword": "aozv",
+  "lanzouUrl": "https://wwavt.lanzn.com/isvYM4dmp0ni",
+  "lanzouPassword": "hab1",
   "publishedAt": "2026-10-27"
 }
