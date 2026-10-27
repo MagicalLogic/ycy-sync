@@ -1,10 +1,11 @@
 {
-  "versionCode": 1027,
-  "versionName": "2.4.2.1027",
+  "versionCode": 1028,
+  "versionName": "2.4.2.1028",
   "force": false,
-  "title": "异次元:云同步",
-  "changelog": "当前为最新版本。",
-  "githubUrl": "",
-  "lanzouUrl": "",
+  "title": "发现新版本 2.4.2.1028",
+  "changelog": "1. 修复下载列表进入已下载章节卡读取\n2. 新增应用内更新提示\n3. 设置新增“更新设置”\n4. 更新公告排版优化",
+  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028/ycy-sync-v1028.apk",
+  "lanzouUrl": "https://wwavt.lanzn.com/ilgcR4dmnjgd",
+  "lanzouPassword": "aozv",
   "publishedAt": "2026-10-27"
 }
