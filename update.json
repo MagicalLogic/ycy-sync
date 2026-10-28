@@ -1,10 +1,10 @@
 {
-  "versionCode": 1034,
-  "versionName": "2.4.2.1028-fix6",
-  "force": false,
-  "title": "发现新版本 2.4.2.1028-fix6",
-  "changelog": "1. 修复下载列表丢失已下载漫画\n2. 修复下载修复不生效，现在可以重建已下载任务\n3. 合并 #dup 重复书时同步修复下载任务 KEY",
-  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028-fix6/ycy-sync-v1028-fix6.apk",
+  "versionCode": 1035,
+  "versionName": "2.4.2.1028-fix7",
+  "force": true,
+  "title": "重要更新 2.4.2.1028-fix7",
+  "changelog": "1. 阅读器翻页恢复原版行为，避免变扁、跳变、折叠屏切割\n2. 继续云端进度时按章节地址/名称匹配本地章节，避免跳到错误章节\n3. 本次为强制更新，请立即升级",
+  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028-fix7/ycy-sync-v1028-fix7.apk",
   "lanzouUrl": "https://wwavt.lanzn.com/b00ybi16mj",
   "lanzouPassword": "2p03",
   "publishedAt": "2026-10-28"
