@@ -1,10 +1,10 @@
 {
-  "versionCode": 1032,
-  "versionName": "2.4.2.1028-fix4",
+  "versionCode": 1033,
+  "versionName": "2.4.2.1028-fix5",
   "force": false,
-  "title": "发现新版本  2.4.2.1028-fix4",
-  "changelog": "1. 打开 App 自动检查更新，每个新版本都会提示\n2. 同时请求两个更新源，取版本号更高者\n3. 修复 CDN 旧缓存导致“检查更新显示无更新”",
-  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028-fix4/ycy-sync-v1028-fix4.apk",
+  "title": "发现新版本 2.4.2.1028-fix5",
+  "changelog": "1. 更新检查改为 GitHub API + raw + jsDelivr @master 三源取最高版本\n2. 不再依赖 jsDelivr @main，避免分支缓存导致检查不到更新\n3. 修复下载列表多本漫画任务混在一起、删除后其他书任务变空白\n4. 打开 App 自动检查，每个新版本提示一次",
+  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028-fix5/ycy-sync-v1028-fix5.apk",
   "lanzouUrl": "https://wwavt.lanzn.com/b00ybi16mj",
   "lanzouPassword": "2p03",
   "publishedAt": "2026-10-28"
