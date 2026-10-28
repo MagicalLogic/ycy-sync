@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34028356/README.md)
 # 异次元:云同步（修改版）
 
 > 基于官方「异次元」2.4.2 修改的非官方版本，包名 `com.wsw.cospsync`，可与官方版共存。
@@ -24,10 +23,11 @@
 
 ## 当前版本
 
-- 版本：`2.4.2.1028`
+- 版本：`2.4.2.1028-fix5`
 - 包名：`com.wsw.cospsync`
 - 最低系统：Android 5.0
 - 可与官方版同时安装
+- 更新日志：[CHANGELOG.md](CHANGELOG.md)
 
 ## 下载
 
