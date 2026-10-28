@@ -1,7 +1,20 @@
 # 异次元:云同步 更新日志
 
-> 当前最新：v1028-fix6（versionCode 1034）
+> 当前最新：v1028-fix7（versionCode 1035）
 > 下载：[GitHub Release](https://github.com/MagicalLogic/ycy-sync/releases/latest) · [蓝奏云](https://wwavt.lanzn.com/b00ybi16mj)（密码 2p03）
+
+## v1028-fix7（2026-10-28）
+
+本版本基于官方 2.4.2 修改。
+
+### 修复
+
+- 阅读器翻页恢复原版行为，避免变扁、跳变、折叠屏切割
+- 继续云端进度时按章节地址/名称匹配本地章节，避免跳到错误章节
+
+### 变更
+
+- 版本号：2.4.2.1028-fix7（versionCode 1035）
 
 ## v1028-fix6（2026-10-28）
 
