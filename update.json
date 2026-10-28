@@ -1,10 +1,10 @@
 {
-  "versionCode": 1029,
-  "versionName": "2.4.2.1028-fix",
+  "versionCode": 1030,
+  "versionName": "2.4.2.1028-fix2",
   "force": true,
-  "title": "重要更新 2.4.2.1028-fix",
-  "changelog": "1. 修复书架点击漫画提示“无法获取章节”\n2. 恢复备份后自动补章节并打开阅读器\n3. 修复下载列表任务丢失、空白、无法删除\n4. 新增“下载修复”清理入口\n5. 本次为强制更新，请立即升级",
-  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028-fix/ycy-sync-v1028-fix.apk",
+  "title": "重要更新 2.4.2.1028-fix2",
+  "changelog": "1. 修复 #dup 重复书无法从书架进入、书源跳错\n2. 修复自动补章节后阅读器一直卡加载\n3. 修复“点击书架跳转详情”开启时章节为空\n4. 自动补章节改为按实际章节数判断\n5. 本次为强制更新，请立即升级",
+  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1028-fix2/ycy-sync-v1028-fix2.apk",
   "lanzouUrl": "https://wwavt.lanzn.com/b00ybi16mj",
   "lanzouPassword": "2p03",
   "publishedAt": "2026-10-28"
