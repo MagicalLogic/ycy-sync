@@ -136,7 +136,7 @@
 
 ## 反馈
 
-- 异次元 QQ 频道:https://pd.qq.com/s/6dj2fb4l2
+- 异次元 QQ 频道：https://pd.qq.com/s/6dj2fb4l2
 - GitHub Issues：
   https://github.com/MagicalLogic/ycy-sync/issues
 
