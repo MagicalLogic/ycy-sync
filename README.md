@@ -3,6 +3,33 @@
 > 基于官方「异次元」2.4.2 修改的非官方版本，包名 `com.wsw.cospsync`，可与官方版共存。
 > 本项目仅供学习交流，请在下载后 24 小时内删除，不得用于商业用途。
 
+## 当前版本
+
+| 项 | 值 |
+|---|---|
+| versionName | `2.4.2.1029` |
+| versionCode | `1038` |
+| 包名 | `com.wsw.cospsync` |
+| 最低系统 | Android 5.0 |
+| 更新方式 | 非强制（force=false） |
+| 安装包 | `ycy-sync-v1029.apk`（21.1 MB） |
+| SHA256 | `4298B05D875249D59A4AAB7D43D17C45D9B48A00F745521BF3E2498A51430D34` |
+| 更新日志 | [CHANGELOG.md](CHANGELOG.md) |
+
+## 下载
+
+### GitHub Release（推荐）
+
+- [最新版本](https://github.com/MagicalLogic/ycy-sync/releases/latest)
+- 直链：`https://github.com/MagicalLogic/ycy-sync/releases/download/v1029/ycy-sync-v1029.apk`
+
+### 蓝奏云（备用）
+
+- 链接：https://wwavt.lanzn.com/b00ybi16mj
+- 提取码：`2p03`
+
+请只从本仓库 Release 或公告中的蓝奏云链接下载，不要使用未知来源的二次打包版本。
+
 ## 项目介绍
 
 这是「异次元」Android 客户端的一个修改版，重点补充官方版缺失的**自动多设备进度同步能力**，并修复一批影响阅读和书架使用的稳定性问题。
@@ -20,27 +47,6 @@
 - 版本说明与下载入口
 
 不包含官方源码，也不分发漫画资源。
-
-## 当前版本
-
-- 版本：`2.4.2.1029`
-- 包名：`com.wsw.cospsync`
-- 最低系统：Android 5.0
-- 可与官方版同时安装
-- 更新日志：[CHANGELOG.md](CHANGELOG.md)
-
-## 下载
-
-优先使用 GitHub Release：
-
-- [最新版本](https://github.com/MagicalLogic/ycy-sync/releases/latest)
-
-备用下载：
-
-- 蓝奏云：见 Release 说明或应用内更新弹窗
-- 蓝奏云链接可能带提取码，弹窗中会提示
-
-请只从本仓库 Release 或公告中的蓝奏云链接下载，不要使用未知来源的二次打包版本。
 
 ## 主要功能
 
@@ -63,6 +69,7 @@
 ### 阅读器
 
 - 新增“预加载下一页”开关，减少点击翻页黑屏
+- 新增“翻页动画速度”：0.5x / 0.75x / 1x / 1.25x / 1.5x / 2x
 - 保留原版左右翻页、上下滚动
 - 修复点击翻页与滑动翻页交替时的部分异常
 - 修复云端进度提示在页面关闭后可能崩溃
@@ -84,13 +91,12 @@
 - 应用内更新公告
 - 移除自定义翻页动画，恢复原版翻页效果
 - 修复部分图源 `@Header`、图片 http/https 问题
-- 图源包去重与规范化
 
 ## 安装与升级
 
 ### 首次安装
 
-1. 下载 `ycy-sync-v1028.apk`
+1. 下载 `ycy-sync-v1029.apk`
 2. 允许安装未知来源应用
 3. 安装后打开，按提示授予存储权限
 
@@ -111,6 +117,13 @@
 - 不建议降级
 - 降级通常需要卸载，会丢失本地数据
 - 降级前先做备份
+
+## 校验
+
+- 文件：`ycy-sync-v1029.apk`
+- 大小：21.1 MB
+- SHA256：`4298B05D875249D59A4AAB7D43D17C45D9B48A00F745521BF3E2498A51430D34`
+- 签名：侧载测试 key（`debug.keystore`），不是官方签名；如遇签名冲突，先备份再卸载重装。
 
 ## 注意事项
 
@@ -137,8 +150,7 @@
 ## 反馈
 
 - 异次元 QQ 频道：https://pd.qq.com/s/6dj2fb4l2
-- GitHub Issues：
-  https://github.com/MagicalLogic/ycy-sync/issues
+- GitHub Issues：https://github.com/MagicalLogic/ycy-sync/issues
 
 反馈时请附：
 
