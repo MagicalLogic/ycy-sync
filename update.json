@@ -1,10 +1,10 @@
 {
-  "versionCode": 1039,
-  "versionName": "2.4.2.1030",
+  "versionCode": 1040,
+  "versionName": "2.4.2.1031",
   "force": false,
-  "title": "发现新版本 v1030",
-  "changelog": "1. 新增 Token 云同步，按图源保存登录状态\n2. 书架封面云标识移到左上角，翻页速度扩展到 0.25x–4x\n3. 新增隐藏导航栏开关，默认关闭\n4. 状态栏/导航栏与底部按钮适配优化",
-  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1030/ycy-sync-v1030.apk",
+  "title": "发现新版本 v1031",
+  "changelog": "1. 修复更新公告弹窗首次打开时的尺寸/透明度跳变\n2. 保留 v1030 的 Token 云同步、书架云标识、翻页速度与导航栏优化",
+  "githubUrl": "https://github.com/MagicalLogic/ycy-sync/releases/download/v1031/ycy-sync-v1031.apk",
   "lanzouUrl": "",
   "lanzouPassword": "",
   "publishedAt": "2026-10-31"
