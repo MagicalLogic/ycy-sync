@@ -1,7 +1,13 @@
 # 异次元:云同步 更新日志
 
-> 当前最新：v1030（versionCode 1039）
+> 当前最新：v1031（versionCode 1040）
 > 下载：[GitHub Release](https://github.com/MagicalLogic/ycy-sync/releases/latest) · [蓝奏云](https://wwavt.lanzn.com/b00ybi16mj)（密码 2p03）
+
+## v1031（2026-10-31）
+
+### 修复
+
+- 修复更新公告弹窗首次打开时的尺寸/透明度跳变和闪烁
 
 ## v1030（2026-10-31）
 
